@@ -1,0 +1,8 @@
+flask ==2.2.2
+pillow == 9.4.0
+opencv-python == 4.7.0.68
+Werkzeug==2.2.2
+gunicorn
+Jinja2==2.11.2
+MarkupSafe==2.0.1
+certifi==2021.5.30
